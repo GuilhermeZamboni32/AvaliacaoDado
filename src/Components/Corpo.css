@@ -1,0 +1,38 @@
+
+.container-C1{
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient (#0127fc, #0127fc)
+  }
+  
+  
+ 
+
+  .texto{
+    box-sizing: border-box;
+    border: 100px;
+    color: azure;
+  }
+
+ .alguma-coisa{
+    height: 50px;
+ }
+  
+  .dado-d6 {
+    width: 10px;
+    height: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+  }
+  
+  .img{
+    width: 100px;
+    height: 100px;
+  }

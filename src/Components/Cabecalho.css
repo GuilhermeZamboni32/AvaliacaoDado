@@ -1,0 +1,15 @@
+.container-cabecalho{
+    background-color: #0127fc;
+    justify-content: center;
+    height: 15vh;
+}
+
+p {
+    font-size: 100px;
+    margin-top: 20px;
+    color: azure;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
