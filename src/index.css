@@ -8,5 +8,7 @@
 
 #root, body, html{
   min-height: 0;
-  background: linear-gradient( #0127fc, #0594e7);
+ /* background-image: url("PlanoFundo.jpg");*/
+ background-color: blue;
+ 
 }
